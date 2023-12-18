@@ -1,0 +1,10 @@
+
+API Key	W6SHG0voubFGY6G47VKQPzdTzW1vdsvn
+Roma:
+ "Key": "14390",
+dataservice.accuweather.com/forecasts/v1/hourly/12hour/
+ /forecasts/v1/hourly/12hour/14390?apikey=W6SHG0voubFGY6G47VKQPzdTzW1vdsvn&language=pt-BR&metric=true
+
+
+flutter pub add http
+flutter pub add flutter_dotenv
